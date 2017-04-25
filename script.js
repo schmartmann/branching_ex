@@ -1,2 +1,2 @@
 alert("okay okay")
-console.log("hact")
+console.log("hacked")
